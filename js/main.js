@@ -238,6 +238,7 @@
 
 	            // Message was sent
 	            if (msg == 'OK') {
+	            	
 	            	sLoader.fadeOut(); 
 	               $('#message-warning').hide();
 	               $('#contactForm').fadeOut();
