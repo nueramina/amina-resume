@@ -1922,7 +1922,7 @@ header .logo a {
 	font-family: "poppins-regular", sans-serif;
 	font-size: 1.4rem;
 	line-height: 2.4rem;
-	margin-bottom: 12px;
+	margin-bottom: -20px;
 }
 .popup-modal .categories {
 	font-family: "poppins-bold", sans-serif;
