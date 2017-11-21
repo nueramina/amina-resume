@@ -2105,7 +2105,7 @@ header .logo a {
 	-moz-background-size: cover;
 	background-size: cover;
 	padding-top: 12rem;
-	padding-bottom: 12rem;
+	padding-bottom: 3.5rem;
 	color: white;
 	position: relative;
 }
@@ -2257,7 +2257,7 @@ header .logo a {
  */
 #contact {
 	background: #151515;
-	padding-top: 12rem;
+	padding-top: 3.5rem;
 	padding-bottom: 7.2rem;
 }
 #contact .section-intro h1 {
@@ -2502,7 +2502,7 @@ header .logo a {
  * -------------------------------------------------------------------
  */
 footer {
-	padding-bottom: 3rem;
+	padding-bottom: 0;
 	font-size: 1.4rem;
 	font-family: "poppins-regular", sans-serif;
 }
